@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_contact">Add Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="delete_all_contact">Delete All Contact</string>
+    <string name="enter_contact_name">Enter Contact Name</string>
+    <string name="enter_contact_phone_number">Enter Contact Phone Number</string>
+</resources>
